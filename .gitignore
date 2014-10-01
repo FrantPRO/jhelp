@@ -27,3 +27,5 @@ nbproject/*
 *.swp
 *.DS_Store
 *.lock
+/manifest.mf
+/build.xml
